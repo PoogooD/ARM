@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.814,=O:\Проекты\Delphi\АРМ\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,O:\Проекты\Delphi\АРМ\Unit2.pas=O:\Проекты\Delphi\АРМ\auth.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.761,O:\Проекты\Delphi\АРМ\ARM.dproj=C:\Users\Pogod\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,O:\Проекты\Delphi\АРМ\Unit2.dfm=O:\Проекты\Delphi\АРМ\auth.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\Pogod\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,O:\Проекты\Delphi\АРМ\MainPage.pas=C:\Users\Pogod\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.388,O:\Проекты\Delphi\АРМ\MainPage.dfm=C:\Users\Pogod\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
